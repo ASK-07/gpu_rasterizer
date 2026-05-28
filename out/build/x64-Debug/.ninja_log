@@ -1,0 +1,25 @@
+# ninja log v5
+5	1014	8010299590796535	CMakeFiles/GPURasterizer.dir/src/main.cpp.obj	7b5c84061c9fa474
+24	1537	8010281238527033	external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	cb418150479231a
+71	1577	8010281238933004	external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	a13d8227ffdb5dce
+10	1545	8010281238577306	external/glfw/src/CMakeFiles/glfw.dir/init.c.obj	3dd558ea20f2dd7
+37	1579	8010281238912792	external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	5b77b761d2672c28
+18	1553	8010281238587304	external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	8de290ccfb598d63
+63	1559	8010281238717508	external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	118078814c5cb2e6
+21	1582	8010281238983095	external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	3879645d0293f134
+45	1600	8010281239194023	external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	590a74565962f705
+53	1612	8010281239344507	external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	cf720fbd2fec1287
+28	1627	8010281239499858	external/glfw/src/CMakeFiles/glfw.dir/window.c.obj	c85083104eec9371
+6	1628	8010281239509863	external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	6b0f18550c3bde78
+57	1628	8010281239509863	external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	e735c24116141934
+1546	2405	8010281247277210	external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	1c4d64ae2b67e6d0
+15	1631	8010281239550116	external/glfw/src/CMakeFiles/glfw.dir/input.c.obj	82aa787a0e8ec252
+41	1637	8010281239610118	external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	f3394295d20ac2f0
+78	1639	8010281239635258	external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	28f9a39b5001ca3f
+34	1666	8010281239750819	external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	3d7e89b9eeee4e9b
+48	1672	8010281239825864	external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	66e0fd569dbd34fe
+1289	2244	8010281245595177	external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	46780320408f2716
+1553	2295	8010281246169327	external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	995b70d3411b19e4
+1539	2306	8010281246249515	external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	d08d2e8a4b9f6718
+2405	2773	8010281250943200	external/glfw/src/libglfw3.a	65cac3594bf022b0
+1015	1152	8010299592126929	GPURasterizer.exe	6f2bb09a56878bad
